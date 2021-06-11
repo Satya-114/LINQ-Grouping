@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LINQ ToLookup/1.0.0": {
+        "runtime": {
+          "LINQ ToLookup.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ ToLookup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
